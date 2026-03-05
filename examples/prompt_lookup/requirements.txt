@@ -2,6 +2,6 @@
 tensorrt_llm>=0.0.0.dev0
 datasets~=2.14.5
 rouge_score
-sentencepiece~=0.1.99
+sentencepiece~=0.2.1
 evaluate
 ordered-set
